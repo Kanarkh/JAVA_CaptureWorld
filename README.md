@@ -1,8 +1,10 @@
-# JAVA_CaptureWorld
-
 ## [작품 이름]
 
 전략 땅따먹기
+
+## [시연 영상]
+
+[![시연영상](https://img.youtube.com/vi/5rX_t8sVoBA/0.jpg)](https://www.youtube.com/embed/5rX_t8sVoBA)
 
 ## [작품 소개]
 
